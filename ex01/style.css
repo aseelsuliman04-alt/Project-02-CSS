@@ -1,0 +1,25 @@
+.nav-bar {
+    position: fixed; 
+    top: 0;
+    z-index: 100; 
+}
+
+.card-container {
+    position: relative; 
+    border: 1px solid black; 
+    width: 200px;
+    height: 100px;
+    margin-top: 50px; 
+}
+
+.badge {
+    position: absolute; 
+    top: 0;             
+    right: 0;          
+}
+
+.top-btn {
+    position: fixed; 
+    bottom: 0;       
+    right: 0;        
+}
